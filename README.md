@@ -1,5 +1,7 @@
 # sublime-angular-snippets
 
+Angular snippets for sublime *2 spaces per tab* version.
+
 ## Usage
 
 ```
