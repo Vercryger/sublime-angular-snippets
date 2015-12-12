@@ -1,6 +1,7 @@
 <snippet>
   <content><![CDATA[(function() {
   'use strict';
+  
   angular
     .module('${1:module}')
     .filter('${2:filter}', ${2:filter});
@@ -8,7 +9,8 @@
   function ${2:filter}() {
     return ${2:filter}Filter;
     
-    ////////////////
+    // filter
+    //
     function ${2:filter}Filter(${3:params}) {
       return ${3:params};
     }
