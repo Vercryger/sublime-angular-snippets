@@ -4,8 +4,21 @@ Angular snippets for sublime *2 spaces per tab* version.
 
 ## Usage
 
+Copy this files to your sublime packages folder:
+
+(Linux)
+
 ```
 $ cd .config/<your sublime folder>/Packages
+```
+
+(Mac)
+
+```
+$ cd Library/Application\ Support/<your sublime folder>/Packages
+```
+
+```
 $ git clone https://github.com/Vercryger/sublime-angular-snippets.git
 $ reset sublime
 ```
