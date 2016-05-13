@@ -20,8 +20,9 @@ $ cd Library/Application\ Support/<your sublime folder>/Packages
 
 ```
 $ git clone https://github.com/Vercryger/sublime-angular-snippets.git
-$ reset sublime
 ```
+
+reset sublime
 
 #### In a JavaScript file type these commands followed by a TAB
 ```
